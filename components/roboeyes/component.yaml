@@ -1,3 +1,6 @@
 name: roboeyes
 version: 1.0.0
-dependencies: []
+files:
+  - roboeyes.h
+  - roboeyes.cpp
+
